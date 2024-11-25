@@ -1,0 +1,17 @@
+{
+  "name": "treasure-hunt",
+  "version": "1.0.0",
+  "description": "Heoy welcome to your treasure hunt game ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Rida Bensalem",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "chai-http": "^5.1.1",
+    "express": "^4.21.1",
+    "mocha": "^10.8.2"
+  }
+}
