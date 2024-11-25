@@ -1,6 +1,4 @@
-Here’s a fun and engaging **README** for your **Treasure Hunt API**:
 
----
 
 # 🏴‍☠️ **Treasure Hunt API**  
 **Embark on an epic adventure, explore mysterious locations, and collect hidden treasures!**  
