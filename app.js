@@ -1,5 +1,6 @@
 const express = require('express');
 const app = express();
+const PORT = 3000;
 
 // Sample data
 let areas = [
@@ -38,8 +39,8 @@ app.post('/api/areas/:id/collect', (req, res) => {
 
    
 });
-app.listen(3000, () => {
-    console.log('Server running on http://localhost:3000');
+app.listen(PORT, () => {
+    console.log('Server running on'+ PORT);
 });
 
 module.exports = app;
